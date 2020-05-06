@@ -12,7 +12,7 @@ def check_outlier(value, median, std):
   else:
     return 'Outlier'
 
-df = pd.read_csv('ssample.csv', sep=';')
+df = pd.read_csv('sample.csv', sep=';')
 unique_indexes = df['nr_conta'].unique()
 
 for customer in unique_indexes:
