@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Control2
+Comment=This is my comment
+Exec=python /home/kennedy/Documents/Dev/k10python/pyrep/executable_file_ubuntu/excel_cleaner.py
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+Name[en_US]=control2.desktop
